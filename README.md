@@ -15,7 +15,8 @@ id | Tidak | String | ID provinsi
 
 > PHP Request:
 
-```<?php
+```php
+<?php
 
 $curl = curl_init();
 
@@ -56,7 +57,8 @@ province | Tidak | String | ID propinsi
 
 > PHP Request:
 
-```<?php
+```php
+<?php
 
 $curl = curl_init();
 
